@@ -15,4 +15,7 @@ docs/
 
 # Editor files
 .vscode/
+
+#Git files
 .github/
+.gitmodules
